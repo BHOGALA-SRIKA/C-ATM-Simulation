@@ -40,6 +40,10 @@ gcc main.c -o atm_system
 ./atm_system
 ```
 
+## Sample Output
+<img width="404" height="701" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/825a0662-8a13-4614-a559-7f52173249de" />
+
+
 ### Future Enhancements
 * [ ] Encryption: Hash PINs before saving them to the file.
 
